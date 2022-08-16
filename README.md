@@ -1,2 +1,2 @@
 # company-profile
-company profile cms with php mysql
+company profile cms with php js mysql
